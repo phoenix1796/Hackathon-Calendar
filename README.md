@@ -1,3 +1,7 @@
+This is a fork of Hackathon Calendar from japacible,
+This calendar is for keeping track of Hackathons in India
+So , If you know about one , Please Submit a pull request to update this calendar.
+
 Upcoming Hackathons
 =====================
 
